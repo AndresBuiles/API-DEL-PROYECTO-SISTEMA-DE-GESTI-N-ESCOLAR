@@ -1,0 +1,1 @@
+En este repositorio estará una carpeta comprimida con mi nombre, el nombre del taller con su respectivo código, el taller y un vídeo explicando como funciona cada codigo sobre mi proyecto SISTEMA DE GESTIÓN ESCOLAR
